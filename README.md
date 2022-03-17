@@ -8,12 +8,21 @@
 # Requirements
 1.When the program starts, it will ask you to enter the path of a txt file. The content of this txt file includes the information of 4 teams, including the name of the team, the names of the two players in the team and the ranking of the team. 
 Ex: Argentine 3 Messi Aguero,France 1 Mbappe Benzema,Brazil 2 Neymar Casemiro,Portugal 4 Ronaldo Fernandes
+
 2.User can choose different options in main menu.
+
 Main Menu:
+
 A.Play preliminaries
+
 B.Play the final
+
 C.Show the record of each team
+
 D.Show player goals
+
 E.Show the result of WorldCup
+
 F.Show teams of final
+
 G.Close and output the result into a txt file
